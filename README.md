@@ -11,5 +11,7 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 💻 HTML, CSS, JavaScript
 * 🌱 MongoDB
 * 🟢 NodeJS
+* 🎨 XD & Figma
+* 🚄 CI/CD
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchikuch)](https://github.com/anuraghazra/github-readme-stats)
