@@ -8,7 +8,7 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, JavaScript
+* 💻 HTML, CSS, JavaScript, TypeScript, Python, C#
 * 🌱 MongoDB
 * 🟢 NodeJS
 * 🎨 XD & Figma
