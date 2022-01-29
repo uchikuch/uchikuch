@@ -8,13 +8,13 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 
 <table border="0">
  <tr>
-<td>* ⚛ React * 📱 React Native
+  <td>* ⚛ React * 📱 React Native</br>
  * 💻 HTML, CSS, JavaScript, TypeScript, Python, C#</br>
-* 🌱 MongoDB, PostgreSQL, mySQL
-* 🟢 NodeJS
-* 🎨 XD & Figma
-* 🚄 CI/CD
-* 🐳 Docker
+* 🌱 MongoDB, PostgreSQL, mySQL</br>
+* 🟢 NodeJS</br>
+* 🎨 XD & Figma</br>
+* 🚄 CI/CD</br>
+* 🐳 Docker</br>
 * 🟠 AWS</td>
 <td><img src="https://github.com/uchikuch/uchikuch/blob/main/programmer.gif" width="250" /></td>
  </tr>
