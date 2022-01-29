@@ -24,4 +24,5 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 ## Design Skills
 <img src="https://github.com/uchikuch/uchikuch/blob/main/programmer.gif" width="250" />
 
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchikuch)](https://github.com/anuraghazra/github-readme-stats)
