@@ -6,6 +6,8 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 
 ## Skills and Experience
 
+<table border="0">
+ <tr>
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JavaScript, TypeScript, Python, C#
@@ -15,6 +17,13 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 🚄 CI/CD
 * 🐳 Docker
 * 🟠 AWS
+ </tr>
+ <tr>
+<img src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />
+ </tr>
+</table>
+
+
 
 ## Examples of work
 <img src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />
