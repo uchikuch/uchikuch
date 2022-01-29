@@ -16,7 +16,7 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 🚄 CI/CD</br>
 * 🐳 Docker</br>
 * 🟠 AWS</td>
-<td><img src="https://github.com/uchikuch/uchikuch/blob/main/programmer.gif" width="250" /></td>
+<td><img src="https://github.com/uchikuch/uchikuch/blob/main/programmer.gif" width="450" /></td>
  </tr>
 </table>
 
