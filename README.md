@@ -17,9 +17,9 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 
 
 ## Examples of work
-[<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
-[<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
-[<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
+<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />
+<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />
+<img align="center" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />
 
 
 ## Design Skills
