@@ -6,7 +6,8 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 
 ## Skills and Experience
 
-* ⚛ React * 📱 React Native
+* ⚛ React 
+* 📱 React Native
 * 💻 HTML, CSS, JavaScript, TypeScript, Python, C#
 * 🌱 MongoDB, PostgreSQL, mySQL
 * 🟢 NodeJS
