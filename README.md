@@ -17,6 +17,6 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 🟠 AWS
 
 ## Examples of work
-<img src="https://tutoring-app.s3.us-east-2.amazonaws.com/Topset-App.gif" width="256" />
+<img src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="256" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchikuch)](https://github.com/anuraghazra/github-readme-stats)
