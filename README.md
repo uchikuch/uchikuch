@@ -9,7 +9,7 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 <table border="0">
  <tr>
 <td>* ⚛ React * 📱 React Native
-* 💻 HTML, CSS, JavaScript, TypeScript, Python, C#
+ * 💻 HTML, CSS, JavaScript, TypeScript, Python, C#</br>
 * 🌱 MongoDB, PostgreSQL, mySQL
 * 🟢 NodeJS
 * 🎨 XD & Figma
