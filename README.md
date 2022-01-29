@@ -16,12 +16,10 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 🟠 AWS
 
 
-
-
 ## Examples of work
 [<img align="left" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
 [<img align="left" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
-[<img align="right" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
+[<img src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
 
 <br />
 ## Design Skills
