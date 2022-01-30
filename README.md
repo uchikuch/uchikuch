@@ -7,20 +7,23 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 ## Skills and Experience
 
 * ⚛ React 
+* 🎱 NextJS
 * 📱 React Native
 * 💻 HTML, CSS, JavaScript, TypeScript, Python, C#
 * 🌱 MongoDB, PostgreSQL, mySQL
 * 🟢 NodeJS
-* 🎨 XD & Figma
-* 🚄 CI/CD
-* 🐳 Docker
 * 🟠 AWS
+* 🐳 Docker
+* 🚄 CI/CD
+* 🎨 XD & Figma
+
+
 
 
 ## Examples of work
 [<img align="center" alt="Topset" src="https://github.com/uchikuch/uchikuch/blob/main/topsettutoring.gif" width="250" />]
-[<img align="center" alt="Airbnb Clone" src="https://github.com/uchikuch/uchikuch/blob/main/airbnb2.gif" width="250" />]
 [<img align="center" alt="Payroll Crypto" src="https://github.com/uchikuch/uchikuch/blob/main/payroll-crypto.gif" width="250" />]
+[<img align="center" alt="Airbnb Clone" src="https://github.com/uchikuch/uchikuch/blob/main/airbnb2.gif" width="250" />]
 
 
 ## Design Skills
