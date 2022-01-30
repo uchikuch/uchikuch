@@ -14,6 +14,7 @@ I'm Uche from Nigeria, and I develop engaging and visually compelling web applic
 * 🟢 NodeJS
 * 🟠 AWS
 * 🐳 Docker
+* 👴🏼 Jenkins
 * 🚄 CI/CD
 * 🎨 XD & Figma
 
